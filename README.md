@@ -22,15 +22,15 @@ This comprehensive data analytics project analyzes US road accident patterns to 
 This project demonstrates a complete data pipeline using Microsoft's Business Intelligence stack. Each component folder contains detailed implementation guides and documentation:
 
 
-- **[Database](./Database/README.md)** - Normalized relational database design Microsoft SQL Server
+- **[Database](./Database)** - Normalized relational database design Microsoft SQL Server
 
-- **[Data Warehouse](./DataWarehouse/README.md)** - Star schema implementation with dimensional modeling
+- **[Data Warehouse](./DataWarehouse)** - Star schema implementation with dimensional modeling
 
-- **[ETL Process](./SSIS/README.md)** - SSIS packages for data extraction, transformation, and loading
+- **[ETL Process](./SSIS)** - SSIS packages for data extraction, transformation, and loading
 
-- **[Reporting & Analytics](./SSRS/README.md)** SSRS reports for structured data presentation & SSAS cubes for multidimensional analysis
+- **[Reporting & Analytics](./SSRS)** SSRS reports for structured data presentation & SSAS cubes for multidimensional analysis
 
-- **[Visualization](./Dashboards/README.md)** - Interactive Power BI & Tableau dashboards for data exploration
+- **[Visualization](./Dashboards)** - Interactive Power BI & Tableau dashboards for data exploration
 
 ## Key Insights (Highlights)
 - Mondays and midday hours show the highest accident frequency.  
