@@ -26,7 +26,7 @@ This project demonstrates a complete data pipeline using Microsoft's Business In
 
 - **[Data Warehouse](./DataWarehouse)** - Star schema implementation with dimensional modeling
 
-- **[ETL Process](./SSIS)** - SSIS packages for data extraction, transformation, and loading
+- **[ETL Process](./SSISpipeline)** - SSIS packages for data extraction, transformation, and loading
 
 - **[Reporting & Analytics](./SSRS)** SSRS reports for structured data presentation & SSAS cubes for multidimensional analysis
 
