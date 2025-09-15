@@ -30,7 +30,7 @@ This project demonstrates a complete data pipeline using Microsoft's Business In
 
 - **[Reporting & Analytics](./SSRS/README.md)** SSRS reports for structured data presentation & SSAS cubes for multidimensional analysis
 
-- **[Visualization](./PowerBI/README.md)** - Interactive Power BI & Tableau dashboards for data exploration
+- **[Visualization](./Dashboards/README.md)** - Interactive Power BI & Tableau dashboards for data exploration
 
 ## Key Insights (Highlights)
 - Mondays and midday hours show the highest accident frequency.  
