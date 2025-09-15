@@ -28,7 +28,7 @@ This project demonstrates a complete data pipeline using Microsoft's Business In
 
 - **[ETL Process](./SSISpipeline)** - SSIS packages for data extraction, transformation, and loading
 
-- **[Reporting & Analytics](./SSRS)** SSRS reports for structured data presentation & SSAS cubes for multidimensional analysis
+- **[Reporting & Analytics](./SSRS/US_Accident_SSRS)** SSRS reports for structured data presentation & SSAS cubes for multidimensional analysis
 
 - **[Visualization](./Dashboards)** - Interactive Power BI & Tableau dashboards for data exploration
 
